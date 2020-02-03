@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Linuskarlsson42/NicklasB-staElev/issues"
   },
-  "homepage": "https://github.com/Linuskarlsson42/NicklasB-staElev#readme"
+  "homepage": "https://github.com/Linuskarlsson42/NicklasB-staElev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
 }
