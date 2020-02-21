@@ -1,8 +1,9 @@
 {
-  "name": "NicklasB-staElev",
+  "name": "nicklasb-staelev",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "module": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +19,9 @@
   },
   "homepage": "https://github.com/Linuskarlsson42/NicklasB-staElev#readme",
   "dependencies": {
+    "esm": "^3.2.25",
     "express": "^4.17.1",
     "nodemon": "^2.0.2"
-  }
+  },
+  "devDependencies": {}
 }
