@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Linuskarlsson42/NicklasB-staElev#readme",
   "dependencies": {
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {
